@@ -1,3 +1,13 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "victor moises",
+      "apellido": "garcia oropeza",
+      "email": "moyosxtouch@gmail.com",
+      "telefono": "222-333-4444",
+      "empresa": "moyosoft",
+      "puesto": "CEO",
+      "id": 1
+    }
+  ]
 }

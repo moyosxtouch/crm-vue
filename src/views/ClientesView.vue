@@ -14,7 +14,7 @@ defineProps({
     type: String,
   },
 });
-const existeClientes = computed(() => {
+const existenClientes = computed(() => {
   return clientes.value.length > 0;
 });
 </script>
