@@ -7,7 +7,18 @@
       "telefono": "222-333-4444",
       "empresa": "moyosoft",
       "puesto": "CEO",
+      "estado": 0,
       "id": 1
+    },
+    {
+      "nombre": "torvic moises",
+      "apellido": "garcia oropeza",
+      "email": "moyosxtouch@gmail.com",
+      "telefono": "555-333-4444",
+      "empresa": "moyosoft",
+      "puesto": "CEO",
+      "estado": 1,
+      "id": 2
     }
   ]
 }
